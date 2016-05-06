@@ -1,0 +1,86 @@
+{
+ "id": null,
+ "result": [
+    {
+    "url": "https://github.com/Aaahh/CMUpdater-API/releases/download/1.9.7/cm-13.0-20160129-MARSH1.9.7-bacon.zip",
+    "timestamp": "1454039782",
+    "api_level": "23",
+    "md5sum": "6defba5903c0d2f9ec5518b221ce41ce",
+    "filename": "cm-13.0-20160129-MARSH1.9.7-bacon.zip",
+    "channel": "NIGHTLY",
+    "changes": "",
+    "incremental": ""
+    },
+    {
+    "url": "https://github.com/Aaahh/CMUpdater-API/releases/download/1.8/cm-13.0-20151223-MARSH1.8-bacon.zip",
+    "timestamp": "1450742400",
+    "api_level": "23",
+    "md5sum": "6bd228bbb88a46e4663aefdd56904a63",
+    "filename": "cm-13.0-20151223-MARSH1.8-bacon.zip",
+    "channel": "NIGHTLY",
+    "changes": "",
+    "incremental": ""
+    },
+    {
+    "url": "https://github.com/Aaahh/CMUpdater-API/releases/download/1.7.1/cm-13.0-20151214-MARSH1.7.1-bacon.zip",
+    "timestamp": "1449878506",
+    "api_level": "23",
+    "md5sum": "5902412725934f6b0639aa236085972c",
+    "filename": "cm-13.0-20151214-MARSH1.7.1-bacon.zip",
+    "channel": "NIGHTLY",
+    "changes": "",
+    "incremental": ""
+    },
+    {
+    "url": "https://github.com/Aaahh/CMUpdater-API/releases/download/1.7/cm-13.0-20151211-MARSH1.7-bacon.zip",
+    "timestamp": "1449705600",
+    "api_level": "23",
+    "md5sum": "6fb26a186e28e3cb38f0981e2d496e82",
+    "filename": "cm-13.0-20151211-MARSH1.7-bacon.zip",
+    "channel": "NIGHTLY",
+    "changes": "",
+    "incremental": ""
+    },
+    {
+    "url": "http://forum.xda-developers.com/devdb/project/dl/?id=15517&task=get",
+    "timestamp": "1449367606",
+    "api_level": "23",
+    "md5sum": "35fb0d43ec97d08905c8bb9ae360586f",
+    "filename": "cm-13.0-20151206-MARSH1.6.1-bacon.zip",
+    "channel": "NIGHTLY",
+    "changes": "",
+    "incremental": ""
+    },
+    {
+    "url": "http://forum.xda-developers.com/devdb/project/dl/?id=15479&task=get",
+    "timestamp": "1449114011",
+    "api_level": "23",
+    "md5sum": "647561258d21f1c78342afbcf1fb7bbe",
+    "filename": "cm-13.0-20151203-MARSH1.6-bacon.zip",
+    "channel": "NIGHTLY",
+    "changes": "",
+    "incremental": ""
+    },
+    {
+    "url": "http://forum.xda-developers.com/devdb/project/dl/?id=15470&task=get",
+    "timestamp": "1449067128",
+    "api_level": "23",
+    "md5sum": "bb5f2d529873655c4fe125bb41860f8b",
+    "filename": "cm-13.0-20151202-MARSH1.5.1-bacon.zip",
+    "channel": "NIGHTLY",
+    "changes": "",
+    "incremental": ""
+    },
+    {
+    "url": "http://forum.xda-developers.com/devdb/project/dl/?id=15462&task=get",
+    "timestamp": "1449026763",
+    "api_level": "23",
+    "md5sum": "f4f077814aab780d607aecf675b0e9e3",
+    "filename": "cm-13.0-20151202-MARSHd1.5-bacon.zip",
+    "channel": "NIGHTLY",
+    "changes": "",
+    "incremental": ""
+    },
+  ],
+ "error": null
+}

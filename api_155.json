@@ -1,0 +1,16 @@
+{
+ "id": null,
+ "result": [
+    {
+    "url": "http://xdavn.com/test.zip",
+    "timestamp": "145403",
+    "api_level": "23",
+    "md5sum": "6defba5903c0d2f9ee",
+    "filename": "BlurOS_TEST.zip",
+    "channel": "NIGHTLY",
+    "changes": "",
+    "incremental": ""
+    },
+  ],
+ "error": null
+}
