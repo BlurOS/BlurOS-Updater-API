@@ -11,6 +11,16 @@
     "changes": "",
     "incremental": ""
     },
+     {
+    "url": "https://github.com/tes.zip",
+    "timestamp": "1462704598",
+    "api_level": "23",
+    "md5sum": "aa63acc34f291268541225dd9ba5f522",
+    "filename": "20160510-2.0tesssss.zip",
+    "channel": "NIGHTLY",
+    "changes": "",
+    "incremental": ""
+    },
   ],
  "error": null
 }
