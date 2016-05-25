@@ -1,12 +1,13 @@
+
 {
  "id": null,
  "result": [
     {
-    "url": "http://xdavn.com/test.zip",
-    "timestamp": "145403",
+    "url": "http://forum.xda-developers.com/devdb/project/dl/?id=180&task=get",
+    "timestamp": "1463452024",
     "api_level": "23",
-    "md5sum": "6defba5903c0d2f9ee",
-    "filename": "BlurOS_TEST.zip",
+    "md5sum": "1e3d2ebe63a3444dcf97abb07afd0804",
+    "filename": "BlurOS-Beta2-20160526-STABLE-ls990.zip",
     "channel": "NIGHTLY",
     "changes": "",
     "incremental": ""
