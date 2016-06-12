@@ -2,7 +2,7 @@
  "id": null,
  "result": [
     {
-    "url": "https://github.com/BlurOS/BlurOS-Updater-API/releases/download/2.0/BlurOS-Release-v1.0-20160613-h815.zip",
+    "url": "https://raw.githubusercontent.com/BlurOS/vendor_dolby/master/README.md",
     "timestamp": "1467586261",
     "api_level": "23",
     "md5sum": "aa63acc34f291268541225dd9ba5f522",
