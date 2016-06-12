@@ -2,21 +2,11 @@
  "id": null,
  "result": [
     {
-    "url": "http://xdavn.com/rommmmmmmmmm.zip",
-    "timestamp": "14397888",
-    "api_level": "23",
-    "md5sum": "6defba5909ec5518b221ce41ce",
-    "filename": "rommmmmmmhm.zip",
-    "channel": "WEAKED",
-    "changes": "",
-    "incremental": ""
-    },
-     {
-    "url": "https://github.com/tes.zip",
-    "timestamp": "1462704598",
+    "url": "https://github.com/BlurOS/BlurOS-Updater-API/releases/download/2.0/BlurOS-Release-v1.0-20160613-h815.zip",
+    "timestamp": "1463704598",
     "api_level": "23",
     "md5sum": "aa63acc34f291268541225dd9ba5f522",
-    "filename": "20160510-2.0tesssss.zip",
+    "filename": "BlurOS-Release-v1.0-20160613-h815.zip",
     "channel": "NIGHTLY",
     "changes": "",
     "incremental": ""
