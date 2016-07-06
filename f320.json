@@ -2,11 +2,11 @@
  "id": null,
  "result": [
     {
-    "url": "http://xdavn.com/test.zip",
-    "timestamp": "145403",
+    "url": "http://bluros.vn/BlurOS_update.zip",
+    "timestamp": "1467825683",
     "api_level": "23",
-    "md5sum": "6defba5903c0d2f9ee",
-    "filename": "BlurOS_TEST.zip",
+    "md5sum": "5b1e7a3e4b0a3482c61d127929a65975",
+    "filename": "BBlurOS_update.zip",
     "channel": "NIGHTLY",
     "changes": "",
     "incremental": ""
