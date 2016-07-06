@@ -2,11 +2,11 @@
  "id": null,
  "result": [
     {
-    "url": "http://image.coolapk.com/apk_image/2015/0919/408649_1442633267_0501.jpg.t.jpg",
-    "timestamp": "1467993922",
+    "url": "http://bluros.vn/BlurOS_update.zip",
+    "timestamp": "1467825683",
     "api_level": "23",
-    "md5sum": "aa63acc34f291268541225dd9ba5f522",
-    "filename": "BlurOS-Release-v1.0-20160616-ls990.zip",
+    "md5sum": "5b1e7a3e4b0a3482c61d127929a65975",
+    "filename": "BBlurOS_update.zip",
     "channel": "NIGHTLY",
     "changes": "",
     "incremental": ""
