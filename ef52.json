@@ -2,11 +2,11 @@
  "id": null,
  "result": [
     {
-    "url": "http://forum.xda-developers.com/devdb/project/dl/?id=18838&task=get",
-    "timestamp": "1466510163",
+    "url": "http://bluros.vn/get/files/BlurOS_updater_ota.zip",
+    "timestamp": "1467913222",
     "api_level": "23",
-    "md5sum": "6a9cbe170be135f2ce71a3b8f5236248",
-    "filename": "BlurOS-Release-v2.0-20160621-ef52.zip",
+    "md5sum": "a65a5eda907e2af8d20814fb989565b5",
+    "filename": "BlurOS_updater_ota.zip",
     "channel": "NIGHTLY",
     "changes": "",
     "incremental": ""
