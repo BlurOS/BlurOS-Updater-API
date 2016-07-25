@@ -2,11 +2,11 @@
  "id": null,
  "result": [
     {
-    "url": "http://bluros.vn/get/files/BlurOS_updater_ota.zip",
-    "timestamp": "1467913222",
+    "url": "https://googledrive.com/host/0B9Y426HPuDmNamRzVHRnaVNsMWc",
+    "timestamp": "1469450881",
     "api_level": "23",
-    "md5sum": "a65a5eda907e2af8d20814fb989565b5",
-    "filename": "BlurOS_updater_ota.zip",
+    "md5sum": "44e803a7020c925e500c7a83961d1966",
+    "filename": "BlurOS-Release-v3.0-20160725-ef52l.zip",
     "channel": "NIGHTLY",
     "changes": "",
     "incremental": ""
